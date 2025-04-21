@@ -35,6 +35,7 @@
 2. Разведывательный анализ.
 3. Построение RFM-таблицы.
 4. Построение моделей кластеризации.
+5. Визуализация результатов
 
 ### Результат:
 [Ссылка на проект](https://github.com/postvlone/clients_clustering_project/blob/main/clients_clustering.ipynb)
